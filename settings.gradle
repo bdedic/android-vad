@@ -1,2 +1,4 @@
 include ':example', ':webrtc', ':silero', ':yamnet'
 rootProject.name='android-vad'
+include ':android-vad'
+
